@@ -1,0 +1,60 @@
+TATA MOTORS COMPLETE FINANCIAL DATA
+Generated on: 2025-06-02 01:16:55
+Source: Screener.in (TATAMOTORS/consolidated)
+
+FINANCIAL RATIOS
+------------------------------
+Market Cap          : ₹2,64,873Cr.
+Current Price       : ₹720
+High / Low          : ₹1,179/536
+Stock P/E           : 9.38
+Book Value          : ₹315
+Dividend Yield      : 0.83%
+ROCE                : 20.0%
+ROE                 : 28.1%
+Face Value          : ₹2.00
+
+NUMERIC VALUES (FOR CALCULATIONS)
+------------------------------
+Market Cap          : 264873
+Current Price       : 720
+High / Low          : 1,179 / 536
+Stock P/E           : 9.38
+Book Value          : 315
+Dividend Yield      : 0.83
+ROCE                : 20.0
+ROE                 : 28.1
+Face Value          : 2.0
+
+SHAREHOLDING PATTERN
+------------------------------
+Category           Sep 2022    Dec 2022    Mar 2023    Jun 2023    Sep 2023    Dec 2023    Mar 2024    Jun 2024    Sep 2024    Dec 2024    Mar 2025
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Promoters            46.40%      46.40%      46.39%      46.39%      46.39%      46.38%      46.37%      46.36%      46.36%      42.58%      42.58%
+FIIs                 13.71%      14.13%      13.89%      15.34%      17.72%      18.40%      18.62%      19.20%      18.18%      20.54%      18.66%
+DIIs                 15.17%      14.75%      15.21%      17.69%      17.38%      17.37%      17.25%      16.01%      15.93%      16.08%      16.54%
+Government            0.14%       0.14%       0.14%       0.14%       0.14%       0.14%       0.14%       0.14%       0.14%       0.29%       0.31%
+Public               24.57%      24.58%      24.36%      20.41%      18.38%      17.70%      17.60%      18.31%      19.39%      20.49%      21.91%
+No. of Shareholders   40,08,506   39,76,830   39,93,043   38,14,831   35,02,408   37,73,314   41,84,369   46,16,908   50,98,550   57,27,234   64,62,123
+
+SHAREHOLDING TREND ANALYSIS
+------------------------------
+Period: Sep 2022 to Mar 2025
+
+Changes:
+Promoters      :  -3.82% (46.40% → 42.58%)
+FIIs           :  +4.95% (13.71% → 18.66%)
+DIIs           :  +1.37% (15.17% → 16.54%)
+Government     :  +0.17% (0.14% → 0.31%)
+Public         :  -2.66% (24.57% → 21.91%)
+
+Shareholder Count Change: +2,453,617 (+61.2%)
+From: 4,008,506 → To: 6,462,123
+
+KEY OBSERVATIONS
+------------------------------
+1. Financial metrics show company performance
+2. Shareholding pattern indicates investor sentiment
+3. FII/DII movements suggest institutional interest
+4. Promoter holding changes reflect management decisions
+5. Retail participation shows market accessibility
